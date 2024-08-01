@@ -1,0 +1,9 @@
+
+.blog-post-image {
+    width: 200px; 
+    height: 200px;
+    object-fit: cover; /* this ensures the image covers the area, cropping if necessary */
+    display: block; /* ensures the image behaves as a block-level element */
+    margin: 0 auto; /* centers the image horizontally if in a block container */
+  }
+  

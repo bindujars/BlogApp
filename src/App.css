@@ -1,0 +1,11 @@
+.App {
+  text-align: center;
+}
+.container {
+  max-width: 800px;
+  margin-top: 20px;
+}
+
+.card {
+  border: 1px solid #dee2e6;
+}
